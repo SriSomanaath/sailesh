@@ -1,0 +1,16 @@
+[
+  {
+    "customerId": "1",
+    "username": "john_doe",
+    "password": "$2b$10$5M8y8MvJv.cLrkJf6ghWkM2yZgf5ZjEbfjQY1.T3fA6szD3p7x9a6", 
+    "email": "john@example.com",
+    "accountNo": "12345678"
+  },
+  {
+    "customerId": "2",
+    "username": "jane_smith",
+    "password": "$2b$10$Lh7j9V.ZgMds9yDtR6vlgF9Z2RtMXjtAW5iR5nzF9/s9g7aHGrDbG",
+    "email": "jane@example.com",
+    "accountNo": "87654321"
+  }
+]
